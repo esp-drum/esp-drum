@@ -1,0 +1,9 @@
+lang: rust
+spec:
+- location: src
+  codefile:
+    - name: config
+    - name: pad
+    - name: piezo
+    - name: state
+    - name: utils
